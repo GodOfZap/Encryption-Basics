@@ -6,7 +6,7 @@ This project includes simple implementations of Caesar and Vigenère ciphers. It
 - Caesar cipher encryption and decryption
 - Vigenère cipher encryption and decryption
 - Brute-force attack to guess cipher keys
-- Kasiski examination and IC for analyzing Vigenère cipher
+- Kasiski examination and IOC for analyzing Vigenère cipher
 
 ## Usage
 Run the scripts to encrypt, decrypt, or perform attacks.
